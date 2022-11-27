@@ -1,0 +1,8 @@
+C:\Users\simun\dumpRepo\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\bin\Debug\Internship-3-OOP-Calendar.exe.config
+C:\Users\simun\dumpRepo\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\bin\Debug\Internship-3-OOP-Calendar.exe
+C:\Users\simun\dumpRepo\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\bin\Debug\Internship-3-OOP-Calendar.pdb
+C:\Users\simun\dumpRepo\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\Internship-3-OOP-Calendar.csproj.AssemblyReference.cache
+C:\Users\simun\dumpRepo\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\Internship-3-OOP-Calendar.csproj.SuggestedBindingRedirects.cache
+C:\Users\simun\dumpRepo\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\Internship-3-OOP-Calendar.csproj.CoreCompileInputs.cache
+C:\Users\simun\dumpRepo\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\Internship-3-OOP-Calendar.exe
+C:\Users\simun\dumpRepo\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\Internship-3-OOP-Calendar\obj\Debug\Internship-3-OOP-Calendar.pdb
